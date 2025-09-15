@@ -1,4 +1,4 @@
-# FaceShield – Smart India Hackathon 2024
+# FaceShield – Smart India Hackathon 2025
 
 ##  Problem Statement
 Face Recognition Surveillance System and Communication Systems for Missing Persons or Items at Simhastha Ujjain (Police Department, MP).
